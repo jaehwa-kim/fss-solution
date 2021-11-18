@@ -1,5 +1,5 @@
 git config --global user.name "Jaehwa kim"
-git config --global user.email "memaum@naver.com"
+git config --global user.email "mail"
 git config --list
 
 작업 폴더에서 
@@ -11,7 +11,7 @@ git status 상태 확인
 
 git commit -m "처음올림"
 
-git remote add origin https://github.com/jaehwa-kim/fss-solution.git
+git remote add origin https://github.com/jaehwa-kim/fss-.git
 
 git push origin master 
 
