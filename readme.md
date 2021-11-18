@@ -1,5 +1,7 @@
 git config --global user.name "Jaehwa kim"
+
 git config --global user.email "mail"
+
 git config --list
 
 작업 폴더에서 
